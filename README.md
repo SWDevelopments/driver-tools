@@ -1,8 +1,5 @@
-# Driver Tools [![Build status](https://ci.appveyor.com/api/projects/status/serhjoggv2bkrm56?svg=true)](https://ci.appveyor.com/project/Fireboyd78/driver-tools) #
+# Driver Tools
 Various modding tools for Driv3r, Driver: Parallel Lines, and Driver: San Francisco.
-
-## Download ##
-You may download the latest version of most programs [here](https://ci.appveyor.com/project/Fireboyd78/driver-tools/build/artifacts).
 
 ## Contributing ##
 If you're interested in contributing, fork the repo and feel free to submit a pull request. Please keep code styling consistent. Thanks!
@@ -39,4 +36,5 @@ Experimental tool for working with locale files in Driver: San Francisco. Doesn'
 Allows for working with compiled script files in Driver: San Francisco. Requires my .NET port of a popular Lua 5.1 decompiler, [Unluac.NET](https://bitbucket.org/Fireboyd78/unluacnet).
 
 ### Zartex ###
-Experimental tool for working with mission files in Driv3r. **ZartexV2** is unofficially the WPF port of the original WinForms version.
+[Zartex 2](https://github.com/BuilderDemo7/Zartex2)
+A modified version from Driver Tools tool called "Zartex" that I named "Zartex 2.0" that allows you to edit Driv3r and Driver: PL missions more precisely (with Lua).
